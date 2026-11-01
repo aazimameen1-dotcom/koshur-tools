@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: koshur-tools
+    runtime: docker
+    plan: free
+    healthCheckPath: /
