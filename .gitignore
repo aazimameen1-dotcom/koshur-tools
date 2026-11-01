@@ -1,0 +1,4 @@
+data/observations.json
+models/
+generated/
+__pycache__/
